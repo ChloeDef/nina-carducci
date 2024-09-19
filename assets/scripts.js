@@ -7,9 +7,9 @@ $(document).ready(function() {
             lg: 3,
             xl: 3
         },
-        lightBox: true,
+        lightBox: !0,
         lightboxId: 'myAwesomeLightbox',
-        showTags: true,
+        showTags: !0,
         tagsPosition: 'top'
     });
 });
